@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <complex.h>
-
+#include <inttypes.h>
 
 #define MIN(a,b) ((a < b)? a : b)
 #define MAX(a,b) ((a > b)? a : b)

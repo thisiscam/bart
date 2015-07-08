@@ -1,15 +1,9 @@
-/Users/jianqiaoyang/Desktop/mikigroup/bart/src/lowrank/svthresh.o: \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/lowrank/svthresh.c \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/misc/misc.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/misc/mri.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/misc/debug.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/multind.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/flpmath.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/lapack.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/la.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/ops.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/misc/cppwrap.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/iovec.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/num/fft.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/iter/thresh.h \
- /Users/jianqiaoyang/Desktop/mikigroup/bart/src/lowrank/svthresh.h
+/home/cyang/bart/src/lowrank/svthresh.o: \
+ /home/cyang/bart/src/lowrank/svthresh.c /home/cyang/bart/src/misc/misc.h \
+ /home/cyang/bart/src/misc/mri.h /home/cyang/bart/src/misc/debug.h \
+ /home/cyang/bart/src/num/multind.h /home/cyang/bart/src/num/flpmath.h \
+ /home/cyang/bart/src/num/lapack.h /home/cyang/bart/src/num/la.h \
+ /home/cyang/bart/src/misc/pcaa.h /home/cyang/bart/src/num/ops.h \
+ /home/cyang/bart/src/misc/cppwrap.h /home/cyang/bart/src/num/iovec.h \
+ /home/cyang/bart/src/num/fft.h /home/cyang/bart/src/iter/thresh.h \
+ /home/cyang/bart/src/lowrank/svthresh.h

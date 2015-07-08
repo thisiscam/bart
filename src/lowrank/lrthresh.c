@@ -247,7 +247,7 @@ static void lrthresh_apply(const void* _data, float mu, complex float* dst, cons
 
 		basorati_matrix(DIMS, blkdims, mat_dims, tmp_mat, zpad_dims, zpad_strs, tmp);
 
-		batch_svthresh(M, N, mat_dims[1], lambda * GWIDTH(M, N, B), tmp_mat, tmp_mat);
+		blockwiseSVTPowerMethodSoft(M, N, mat_dims[1], lambda * GWIDTH(M, N, B), tmp_mat, tmp_mat);
 
 		//	for ( int b = 0; b < mat_dims[1]; b++ )
 		//	svthresh(M, N, lambda * GWIDTH(M, N, B), tmp_mat, tmp_mat);
